@@ -1,0 +1,10 @@
+# Compiled binaries
+fifoMemoryPaging
+*.o
+*.out
+*.exe
+
+# Temporary files
+*.tmp
+*.swp
+*~
